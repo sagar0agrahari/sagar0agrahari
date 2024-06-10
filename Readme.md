@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sagar Agrahari</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-- 🔭 I’m currently working on [ABC](ABC.ca)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/sagar-agrahari-355539253/" target="_blank" rel="LinkedIn"></h3>
 <p align="left">
 </p>
 
