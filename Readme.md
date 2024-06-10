@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
 
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/sagar-agrahari-355539253/" target="_blank" rel="LinkedIn"></h3>
+<h3 align="left">Connect with me:> <a href="https://www.linkedin.com/in/sagar-agrahari-355539253/" target="_blank" rel="LinkedIn"</h3>
 <p align="left">
 </p>
 
