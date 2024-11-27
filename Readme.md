@@ -62,7 +62,7 @@
   </a>
 </p>
 
---- ### 🚀 About Me 
+### 🚀 About Me 
 I am a **Junior Software Engineer** with a keen interest in
 developing scalable and innovative software solutions. My expertise spans across
 **frontend** technologies like HTML, CSS, JavaScript, and React, as well as
@@ -75,7 +75,7 @@ in the **WIMTACH Hackathon**, where I had the opportunity to work with a diverse
 team to create impactful solutions. I am always eager to expand my skill set and
 contribute to projects that challenge the status quo. 
 
---- ### 🌱 My Interests 
+### 🌱 My Interests 
 I am particularly interested in the fields of **AI**, **Machine Learning**, and
 **cloud computing**, and I am actively pursuing self-learning through online
 resources and courses. In addition to technology, I enjoy exploring **emerging
