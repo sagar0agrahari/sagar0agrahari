@@ -298,4 +298,4 @@ trends** and innovations that could shape the future of software development.
   />
 </a>
 
---- Let me know if you'd like any additional tweaks!
+## Let me know if you'd like any additional tweaks!
