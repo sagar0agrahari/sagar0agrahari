@@ -17,13 +17,13 @@
 </p>
 <p align="center">
   <a
-    href="https://www.linkedin.com/in/sagar-agrahari-355539253/"
+    href="https://www.linkedin.com/in/sagaragrahari106/"
     target="_blank"
     style="text-decoration: none"
   >
     <img
       src="https://www.svgrepo.com/show/183624/linkedin.svg"
-      alt="sagar-agrahari-355539253"
+      alt="sagaragrahari106"
       height="30"
       width="40"
     />
